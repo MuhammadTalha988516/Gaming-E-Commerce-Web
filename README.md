@@ -34,10 +34,6 @@ GameStop is a sleek, desktop-only e-commerce web application built using **React
 /data
 /styles
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧪 Development Workflow
